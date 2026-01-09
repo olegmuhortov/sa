@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "timestamp": "2024-01-15T09:41:00Z",
+  "data": {
+    "title": "Выберите магазин",
+    "stores": [
+      {
+        "id": "metro_001",
+        "name": "МЕТРО",
+        "description": "Ближайшая доставка сегодня 21:00–23:00",
+        "delivery_info": {
+          "date": "2024-01-15",
+          "time_slot": "21:00–23:00"
+        },
+        "external_link": "https://partner.petrushka.ru/metro/001"
+      },
+      {
+        "id": "ashan_002",
+        "name": "Ашан",
+        "description": "Ближайшая доставка сегодня 18:00–20:00",
+        "delivery_info": {
+          "date": "2024-01-15",
+          "time_slot": "18:00–20:00"
+        },
+        "external_link": "https://partner.petrushka.ru/ashan/002"
+      },
+      {
+        "id": "vkusvill_003",
+        "name": "ВкусВилл",
+        "description": "Быстрая доставка от 20 до 60 минут",
+        "delivery_info": {
+          "is_fast_delivery": true,
+          "delivery_range": "20-60 минут"
+        },
+        "external_link": "https://partner.petrushka.ru/vkusvill/003"
+      },
+      {
+        "id": "victoria_004",
+        "name": "ВИКТОРИЯ",
+        "description": "Ближайшая доставка сегодня 17:00–19:00",
+        "delivery_info": {
+          "date": "2024-01-15",
+          "time_slot": "17:00–19:00"
+        },
+        "external_link": "https://partner.petrushka.ru/victoria/004"
+      }
+    ]
+  }
+}
