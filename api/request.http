@@ -1,0 +1,4 @@
+GET https://api.petrushka.ru/v1/partners/stores
+Authorization: Bearer {{access_token}}
+Accept: application/json
+Content-Type: application/json
